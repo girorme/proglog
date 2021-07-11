@@ -2,6 +2,12 @@ Commit log prototype
 ---
 Distributed services study
 
+Usage
+---
+```
+go run ./cmd/server/main.go
+```
+
 Requests in requests folder
 ---
 
